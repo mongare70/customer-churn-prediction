@@ -1,9 +1,0 @@
-pandas
-numpy
-matplotlib
-scikit-learn
-seaborn
-ipykernel
-fastapi
-uvicorn
-python-multipart
