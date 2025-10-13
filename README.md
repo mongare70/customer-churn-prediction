@@ -29,9 +29,10 @@ Customer churn prediction enables proactive interventions to improve retention, 
 
 5. Model Training – Built and evaluated machine learning models for churn prediction using scikit-learn.
 
-Deployment – Developed a FastAPI endpoint (/churn-predict) to serve the trained model for real-time churn predictions.
+6. Deployment – Developed a FastAPI endpoint (/churn-predict) to serve the trained model for real-time churn predictions.
 
 ## Credits
 
 1. [Hillary Mongare](https://github.com/mongare70)
+
 2. [Victor Somadina](https://github.com/victorsomadina)
